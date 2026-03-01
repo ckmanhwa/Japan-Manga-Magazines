@@ -1,0 +1,5 @@
+{
+  "name": "일본 만화잡지 지형도",
+  "description": "출판사별, 연령/성별 타겟별 일본 만화잡지 지형도를 파악할 수 있는 하이브리드 웹사이트입니다.",
+  "requestFramePermissions": []
+}
